@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tape Measure</string>
+    <string name="action_settings">Blam!</string>
+    <string name="rescTitle">Accelerometer Test Interface</string>
+    <string name="rescBegin">Tap to begin</string>
+
+
+</resources>
